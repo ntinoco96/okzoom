@@ -1,0 +1,22 @@
+{
+  "name": "okzoom",
+  "version": "1.1.0",
+  "description": "OKZoom is a jQuery plugin that produces a portable loupe of variable size and shape. All other jQuery 'zoom' plugins we have encountered implement a square magnifying area. Ours is a circle. You want a circle. See a demo \"here\":http://okfoc.us/okzoom.",
+  "main": "src/okzoom.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okfocus/okzoom.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/okfocus/okzoom/issues"
+  },
+  "homepage": "https://github.com/okfocus/okzoom#readme",
+  "dependencies": {
+    "jquery": "^2.2.3"
+  }
+}
